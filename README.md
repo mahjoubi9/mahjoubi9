@@ -25,7 +25,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 As for the charts 🥧 my stats :
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<img src="https://github.com/mahjoubi9/mahjoubi9/blob/master/githubsk.gif" width="700">
 
 
 
