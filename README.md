@@ -27,7 +27,7 @@ As for the charts 🥧 my stats :
 <!-- TODO change to the GitHub Skyline 2021 graph -->
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=mahjoubi9&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for mahjoubi9" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mahjoubi9&theme=dark&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MishManners" width="700">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mahjoubi9&theme=jolly" width="700">
