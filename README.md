@@ -26,4 +26,5 @@ As for the charts 🥧 my stats :
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahjoubi9&theme=dark&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
