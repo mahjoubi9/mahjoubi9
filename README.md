@@ -58,3 +58,6 @@ As for the charts 🥧 my stats :
 
 ```
 --!>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahjoubi9&theme=radical" width="700">
