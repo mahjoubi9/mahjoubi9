@@ -20,12 +20,13 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>-->
 <a href="https://dev.to/redwanemahjoubi" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
+<img src="https://github.com/mahjoubi9/mahjoubi9/blob/main/linkedin.png" width="1584">
 
 <!-- TODO add in the rest of the URLs -->
 As for the charts 🥧 my stats :
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
-<img src="https://github.com/mahjoubi9/mahjoubi9/blob/main/githubsk.gif" width="700">
+<img src="https://github.com/mahjoubi9/mahjoubi9/blob/main/githubsk-min.gif" width="700">
 
 
 
