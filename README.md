@@ -61,3 +61,8 @@ As for the charts 🥧 my stats :
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=mahjoubi9&theme=radical" width="700">
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mahjoubi9/mahjoubi9/blob/output/github-contribution-grid-snake.svg)
