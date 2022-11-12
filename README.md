@@ -22,8 +22,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 </p>
 
 <!-- TODO add in the rest of the URLs -->
-As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+As for the charts 🥧 my stats :
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
-<img src="https://github.com/mahjoubi9/mahjoubi9/blob/main/mahjoubi9-2021.stl" width="700">
+<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
