@@ -28,4 +28,4 @@ As for the charts 🥧 my stats :
 <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mahjoubi9&theme=dark&hide_border=true&border_radius=4.9&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MishManners" width="700">
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mahjoubi9&theme=jolly" width="700">
